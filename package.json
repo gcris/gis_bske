@@ -13,5 +13,13 @@
     "jquery": "^3.7.0",
     "mapbox-gl": "^2.15.0",
     "simple-concat": "^1.0.1"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "index.html"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
