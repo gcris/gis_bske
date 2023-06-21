@@ -1,0 +1,180 @@
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+        <!-- Mapbox -->
+        <script src='/gis_bske/node_modules/mapbox-gl/dist/mapbox-gl.js'></script>
+        <link href='/gis_bske/node_modules/mapbox-gl/dist/mapbox-gl.css' rel='stylesheet' />
+
+        <script src='/gis_bske/node_modules/@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.min.js'></script>
+        <link href='/gis_bske/node_modules/@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css' rel='stylesheet' />
+
+        <!-- Font-awesome 4.7.0 -->
+        <link href='/gis_bske/source/css/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.css' rel='stylesheet' />
+        <link href='/gis_bske/source/css/font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css' rel='stylesheet' />
+        <!-- Bootstrap v5.2.1 -->
+        <link href="/gis_bske/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="/gis_bske/node_modules/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+        <!-- JQuery -->
+        <script src='/gis_bske/node_modules/jquery/dist/jquery.js'></script>
+        <!-- User-defined CSS -->
+        <link href='/gis_bske/source/css/style.css' rel='stylesheet' />
+    </head>
+    <body>
+        <div id="map"></div>
+        <div class="map_legend position-absolute">
+            <button class="btn btn-primary position-relative" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling" aria-controls="offcanvasScrolling">
+                <span class="fa fa-map"></span>
+            </button>
+        </div>
+        <div class="offcanvas offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false" tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasScrollingLabel">ILOCOS NORTE MAP</h5>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <form class="d-grid gap-3" id="form_marker_controls">
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="voting_precincts" name="marker_controls" id="voting_precincts">
+                        <label class="form-check-label" for="voting_precincts">
+                            Location of Voting Precincts
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="pbox" name="marker_controls" id="pbox">
+                        <label class="form-check-label" for="pbox">
+                            Protect Boxes
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="tpu">
+                        <label class="form-check-label" for="tpu">
+                            Tourist Assistance Desks/Centers
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="pac">
+                        <label class="form-check-label" for="pac">
+                            Police Assistance Centers
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="slc">
+                        <label class="form-check-label" for="slc">
+                            Strategic Location Checkpoints
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="slos">
+                        <label class="form-check-label" for="slos">
+                            Strategic Location Oplan Sita
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="slmb">
+                        <label class="form-check-label" for="slmb">
+                            Strategic Location Mobile Police Cars
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="slmc">
+                        <label class="form-check-label" for="slmc">
+                            Strategic Location Motorcycles
+                        </label>
+                    </div>
+                    <div class="form-check p-1 ms-4 bg-light border">
+                        <input class="form-check-input" type="checkbox" value="" id="border_c">
+                        <label class="form-check-label" for="border_c">
+                            Border Checkpoints
+                        </label>
+                    </div>
+                </form>
+                <form id="form_map_style">
+                    <div class="row gap-2">
+                        <div class="card col p-0" style="width: 18rem;">
+                            <div class="card-body p-0">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" value="streets-v12" name="map_styles" id="streets-v12">
+                                    <label class="form-check-label" for="streets-v12">
+                                        Streets
+                                    </label>
+                                </div>
+                            </div>
+                            <img src="/gis_bske/source/images/streets.png" class="card-img-bottom" alt="...">
+                        </div>
+                        <div class="card col p-0" style="width: 18rem;">
+                            <div class="card-body p-0">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" value="outdoors-v12" name="map_styles" id="outdoors-v12">
+                                    <label class="form-check-label" for="outdoors-v12">
+                                        Outdoor
+                                    </label>
+                                </div>
+                            </div>
+                            <img src="/gis_bske/source/images/outdoors.png" class="card-img" alt="...">
+                        </div>
+                    </div>
+                    <div class="row gap-2">
+                        <div class="card col p-0" style="width: 18rem;">
+                            <div class="card-body p-0">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" value="satellite-v9" name="map_styles" id="satellite-v9">
+                                    <label class="form-check-label" for="satellite-v9">
+                                        Satellite
+                                    </label>
+                                </div>
+                            </div>
+                            <img src="/gis_bske/source/images/satellite.png" class="card-img" alt="...">
+                        </div>
+                        <div class="card col p-0" style="width: 18rem;">
+                            <div class="card-body p-0">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" value="satellite-streets-v12" name="map_styles" id="satellite-streets-v12">
+                                    <label class="form-check-label" for="satellite-streets-v12">
+                                        Satellite Streets
+                                    </label>
+                                </div>
+                            </div>
+                            <img src="/gis_bske/source/images/satellite-streets.png" class="card-img" alt="...">
+                        </div>
+                    </div>
+                    <div class="row gap-2">
+                        <div class="card col p-0" style="width: 18rem;">
+                            <div class="card-body p-0">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" value="light-v11" name="map_styles" id="light-v11">
+                                    <label class="form-check-label" for="light-v11">
+                                        Light
+                                    </label>
+                                </div>
+                            </div>
+                            <img src="/gis_bske/source/images/light.png" class="card-img" alt="...">
+                        </div>
+                        <div class="card col p-0" style="width: 18rem;">
+                            <div class="card-body p-0">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="radio" value="dark-v11" name="map_styles" id="dark-v11">
+                                    <label class="form-check-label" for="dark-v11">
+                                        Dark
+                                    </label>
+                                </div>
+                            </div>
+                            <img src="/gis_bske/source/images/dark.png" class="card-img" alt="...">
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasWithBackdrop" aria-labelledby="offcanvasWithBackdropLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasWithBackdropLabel">Offcanvas with backdrop</h5>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+        </div>
+        <script src='/gis_bske/source/js/mapbox_script.js' type="module"></script>
+        <!-- Bootstrap JavaScript Libraries -->
+        <script src="/gis_bske/node_modules/@popperjs/core/dist/umd/popper.js">
+        </script>
+        <script src="/gis_bske/node_modules/bootstrap/dist/js/bootstrap.min.js">
+        </script>
+    </body>
+</html>

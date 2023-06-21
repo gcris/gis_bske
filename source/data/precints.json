@@ -1,0 +1,911 @@
+[
+    {
+        "stationunit": "Batac City",
+        "location": "M. Marcos Mem. Elem School, Brgy Valdez",
+        "personnel": "PSSg Brian Cruz\nPat Merwin Salarzon",
+        "contactno": "09164175602\n09096678579\n",
+        "latitude": 18.053432,
+        "longitude": 120.565254,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "H. Valdez Mem. Elem School, Brgy Nalupta",
+        "personnel": "PCpl Christine Taganas\nPat Karylle Manuel",
+        "contactno": "9553412734\n9368367919\n",
+        "latitude": 18.06352,
+        "longitude": 120.562453,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Baay Elem School, Brgy Baay ",
+        "personnel": "PSSg Romeo Bartolome\nPat John Carlo Pinzon",
+        "contactno": "9485554050\n9265170708",
+        "latitude": 18.116063,
+        "longitude": 120.572388,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Baligat Elem School, Brgy Baligat",
+        "personnel": "Pat Glenn Rubia Rapisura\nPat Zedrick Rafanan",
+        "contactno": "9936761343\n9196480089\n",
+        "latitude": 18.093245,
+        "longitude": 120.561196,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Baoa East Elem School, Brgy Baoa East",
+        "personnel": "PSSG Rizal Almondia\nPat Chester Paz",
+        "contactno": "9171898156\n9678410836\n",
+        "latitude": 18.068371,
+        "longitude": 120.601325,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Baoa Elem School, Brgy Baoa West",
+        "personnel": "Pat Dominic Alejandro Paje\nPat  Ericson R Piga",
+        "contactno": "9758835300\r\n9754766153\r",
+        "latitude": 18.07002,
+        "longitude": 120.594929,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Bil-loca Elem School, Brgy Billoca",
+        "personnel": "PSSg King John Sabado\nPat Julius Realin",
+        "contactno": "9950792386\r\n9458234641\r",
+        "latitude": 18.088418,
+        "longitude": 120.567833,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Biningan Elem School, Brgy Binigan",
+        "personnel": "Pat Jonathan Palisoc\nPat Jerry Paul Salazar Rabaino",
+        "contactno": "\n9532292043\r\n9564810578\r",
+        "latitude": 18.023491,
+        "longitude": 120.643463,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Batac National High School, Brgy Bungon",
+        "personnel": "PSSg Mark Laurence Yapit\nPat Mathew Alcantara",
+        "contactno": "9532292043\r\n9634090508\r",
+        "latitude": 18.11112,
+        "longitude": 120.571334,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Camandingan Elem School",
+        "personnel": "PMSg Emmanuel Cartagena\nPat Virgilio Sagadraca",
+        "contactno": "9453886830\r\n9365059028\r",
+        "latitude": 18.070387,
+        "longitude": 120.619788,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Sumader Elem School, Brgy Sumader",
+        "personnel": "PSSg Charlie Putulan\nPSMS Darwin Quiaoit",
+        "contactno": "9175578070\r\n9666718841\r",
+        "latitude": 18.024819,
+        "longitude": 120.580429,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Naguirangan Elem School, Brgy Naguirangan",
+        "personnel": "PMSg  Erwin  Gamet\nPat Edwin G Azur",
+        "contactno": "9271542954\r\n9532850218\r",
+        "latitude": 18.041679,
+        "longitude": 120.586908,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Colo-Mabaleng Elem School, Brgy Colo-Mabaleng\r\n",
+        "personnel": "PMSg Edison E Guieb\nPat Marvin G Ramos",
+        "contactno": "9206646494\r\n9771043135\r",
+        "latitude": 18.011989,
+        "longitude": 120.559402,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Dariwdiw Elem School, Brgy Dariwdiw\r",
+        "personnel": "PCpl Jessie G Doroni\nPCpl Zybrille F Mendoza",
+        "contactno": "9496172295\r\n9611448408\r",
+        "latitude": 18.094053,
+        "longitude": 120.586476,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Magnuang Elem School, Brgy Magnuang\r",
+        "personnel": "PMSg Roel Salamitao\nPSSg Marlon Rañeses",
+        "contactno": "9169818380\r\n9954065576\r",
+        "latitude": 18.015074,
+        "longitude": 120.538579,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Quiom-Maipalig Elem School, Brgy Quiom",
+        "personnel": "PSSg Noriel Clyde Tamayo\nPat Abiraf Rafanan",
+        "contactno": "\n9171056449\r\n9120641203\r",
+        "latitude": 17.98035,
+        "longitude": 120.580793,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Nagbacalan Elem School, Brgy Nagbacalan",
+        "personnel": "Pat Jayson Mendoza Arubio\nPSSg Philip Matutino",
+        "contactno": "9946958952\r\n9496335478\r",
+        "latitude": 18.091652,
+        "longitude": 120.595167,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "B. Macadaeg Elem School, Brgy Palongong, Brgy Palongpong",
+        "personnel": "PSSg Ryan Verdadero\nPat Jayson Ragasa",
+        "contactno": "9457039454\r\n9453997294\r",
+        "latitude": 18.05449,
+        "longitude": 120.588078,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Parangopong Elem School, Brgy Parangopong",
+        "personnel": "PSMs Nixon Rivera\nPCpl Mark Jirreh Requiso",
+        "contactno": "9615031982\r\n9276676603\r",
+        "latitude": 18.03733,
+        "longitude": 120.573501,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Payao Elem School, Brgy Payao",
+        "personnel": "PSSg Rely R Vea Jr\nPat Mart Stephen Fernandez",
+        "contactno": "9267695120\r\n9171560424\r",
+        "latitude": 18.008676,
+        "longitude": 120.574507,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Pimentel Elem School, Brgy Pimentel",
+        "personnel": "Pat Jordan Dingle\nPat Mel Jun Cocson Baclig",
+        "contactno": "9562591924\r\n9678414422\r",
+        "latitude": 17.996124,
+        "longitude": 120.52365,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Quiling Norte Day Care Center Bldg, Brgy Quiling Norte",
+        "personnel": "PCpl Kathrina Academia Ogano\nPat Marie Rose Padaco",
+        "contactno": "9459622946\r\n9152134828\r",
+        "latitude": 18.075981,
+        "longitude": 120.562065,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Quiling Elem School, Brgy Quiling Sur",
+        "personnel": "PSsg Joel Macadangdang\nPat Jhon Mark Mangulad Mendoza",
+        "contactno": "9059399956\r\n9354388187\r",
+        "latitude": 18.065783,
+        "longitude": 120.551444,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Rayuray Elem School, Brgy Rayuray",
+        "personnel": "PMSg  James Riñen\nPat John Properous Valdez",
+        "contactno": "9193957332\r\n9154348922\r",
+        "latitude": 18.072422,
+        "longitude": 120.582439,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "San Mateo Elem School, Brgy San Mateo",
+        "personnel": "PSSg Edward Rabanal\nPat Chrysler Perez",
+        "contactno": "9065286220\r\n9981597824\r\r",
+        "latitude": 18.0491,
+        "longitude": 120.599373,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Tabug Elem School, Brgy Tabug",
+        "personnel": "Pat Louise Benjie Rabang\nPat Heinree Paulo Valenzuela",
+        "contactno": "9564810665\r\n9663979477\r",
+        "latitude": 18.033697,
+        "longitude": 120.548194,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Batac City",
+        "location": "Catalino Acosta Elem Mem. Elem School, Brgy Acosta",
+        "personnel": "PCpl Amyneth Gaoiran\nPat Marjorie Pasion",
+        "contactno": "9121484045\r\n9678410834\r",
+        "latitude": 18.054461,
+        "longitude": 120.556591,
+        "comelecofficer": "Ms. Josephine V. Balbas",
+        "comeleccontactno": "(077) 677-1820"
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 1 San Lorenzo",
+        "personnel": "PCpl Ceredon, Sheryll Sebastian\n Pat Abian, Kristine Joy Daludado",
+        "contactno": "099063694936\n 09458157853",
+        "latitude": 18.20513,
+        "longitude": 120.58433,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 4 San Guillermo",
+        "personnel": "PSSg Wilfredo N Pasion \n Pat Clyde Manzano",
+        "contactno": "09454596409\n 09389150931",
+        "latitude": 18.20463,
+        "longitude": 120.59134,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 5, San Pedro",
+        "personnel": "Christian Jade Mayubay\n Pat Siriban, Mark John Lester Tamanu",
+        "contactno": "09952757120\n 09064630723",
+        "latitude": 18.19632,
+        "longitude": 120.58666,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 7-B NSD Natividad",
+        "personnel": "Pat Marlo Dave Gallema\n Pat Benz Kenneth Dela Cueva",
+        "contactno": "09307763045\n 09451457254",
+        "latitude": 18.20264,
+        "longitude": 120.59306,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 12, Laoag City",
+        "personnel": "Pat Jeffrey Cañas \n Pat William Martinez",
+        "contactno": "09127397825\n 09263848072",
+        "latitude": 18.20693,
+        "longitude": 120.5943,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 30-A Suyo",
+        "personnel": "PMSg Garcia, Karlo Garganta\n Pat Tagavilla, John Michael Haylar",
+        "contactno": "09209686983\n 9751430866",
+        "latitude": 18.21091,
+        "longitude": 120.56791,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 31 Talingaan",
+        "personnel": "Pat Sibbaluca, Austin Maguddayao\n Pat Luna, Roi Darren Baltazar",
+        "contactno": "9476597960\n 9158550525",
+        "latitude": 18.2123,
+        "longitude": 120.56275,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 32-A Lapaz",
+        "personnel": "PSSg John M Dones\n Pat Rey Ribultan",
+        "contactno": "9289351326\n 09952605288",
+        "latitude": 18.20291,
+        "longitude": 120.53824,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 55-C Vira",
+        "personnel": "Pat Pat Rolan Aguinoas \n Pat Kevin Balinbin",
+        "contactno": "9055650197 \n 09265197655",
+        "latitude": 18.2221,
+        "longitude": 120.59558,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 58 Casili",
+        "personnel": "Pat Genesis Nicolas \n Pat Reymart C Viernes",
+        "contactno": "09751446755 \n 09561981109",
+        "latitude": 18.21673,
+        "longitude": 120.57738,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 11 Sta Balbina",
+        "personnel": "Pat Melvin Zamora\n Pat Jeffrey Viloria",
+        "contactno": "09979959895\n 09994191956",
+        "latitude": 18.19524,
+        "longitude": 120.59422,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 55-A Barit",
+        "personnel": "PSSg Romeo G Pacupac Jr. \n Pat Christian Rex Aquino",
+        "contactno": "09193069972\n 09756601601",
+        "latitude": 18.21956,
+        "longitude": 120.60489,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 55-B Salet-Bulangon",
+        "personnel": "Pat Lorenzana, Christian Nasingao\n Pat Dulay, James Lee Bravo",
+        "contactno": "9953662369\n '09358505446",
+        "latitude": 18.21457,
+        "longitude": 120.61301,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 57 Pila",
+        "personnel": "PCpl Duey, Geizzen Jan Urbiztondo\n Pat Andres, Christian De la Cruz",
+        "contactno": "9177751600\n 9156008937",
+        "latitude": 18.22027,
+        "longitude": 120.57788,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 59-A Dibua South",
+        "personnel": "PSSg Ramil, Aldrin Macapulay\n PSSg Mandac, Diosdado Miguel Jr.",
+        "contactno": "09275531249\n 9273616819",
+        "latitude": 18.24307,
+        "longitude": 120.57514,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 60-A Caaoacan",
+        "personnel": "Pat Joe Kenneth Espinoza\n Pat Lorenz Gonzaga",
+        "contactno": "09751445813\n 09483557825",
+        "latitude": 18.25326,
+        "longitude": 120.56042,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 60-B Madiladig",
+        "personnel": "Pat Sherwin Dolores \n Pat Andrew Say Mallari",
+        "contactno": "09757850057 \n 09557150015",
+        "latitude": 18.24783,
+        "longitude": 120.57029,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 61 Cataban",
+        "personnel": "PCpl Datuin, Jerry Saura\n PCpl Anacleto, Alvin Kristopher Eugenio",
+        "contactno": "9088838953\n 9457040953",
+        "latitude": 18.23538,
+        "longitude": 120.56303,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 62-B Navotas South",
+        "personnel": "PSSg Domingo, Joneper Obien\n Pat Hilario, Steven Joe Balagot",
+        "contactno": "09666402379\n 99678415072",
+        "latitude": 18.23135,
+        "longitude": 120.5639,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 18 San Quirino",
+        "personnel": "PMSg Pascua, James Herbert Gaspar\n Pat Buenavista, Karl Jerick De Guzman",
+        "contactno": "09169270025\n 9676847476",
+        "latitude": 18.19264,
+        "longitude": 120.59723,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 23 San Matias",
+        "personnel": "Pat De la Cruz, Donel Pagaduan\n Pat Gulatera, Rey Mart Malto",
+        "contactno": "9187793932\n 9977825225",
+        "latitude": 18.19627,
+        "longitude": 120.60545,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 29 Santo Tomas",
+        "personnel": "Pat Gallardo, Jack Francis Reginaldo",
+        "latitude": 18.19181,
+        "longitude": 120.61085,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 52-A San Mateo",
+        "personnel": "Pat Jordan Ace Ibarra \nPat John Rey Idor",
+        "contactno": "09564080476\n 09751426577",
+        "latitude": 18.17222,
+        "longitude": 120.63114,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 52-B Lataag",
+        "personnel": "Pat Sugar Lapitan \n Pat Romar Castillo",
+        "contactno": "09978344193\n 09354271657",
+        "latitude": 18.18297,
+        "longitude": 120.64043,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 53 Rioeng",
+        "personnel": "Pat Malapit, Jerome Abis",
+        "contactno": 9454922311,
+        "latitude": 18.17927,
+        "longitude": 120.61863,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 54-A Lagui-Sail",
+        "personnel": "PCpl De la Cruz, Mark Jorie Curammeng\n PCpl Dalida, Mark John Rivera",
+        "contactno": "09458004318\n 09950419957",
+        "latitude": 18.20247,
+        "longitude": 120.63317,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 54-B Camangaan",
+        "personnel": "PSMS Roger Ubaldo \nPSSg Broodly Vilanueva",
+        "contactno": "09152734979\n 09993065253",
+        "latitude": 18.18373,
+        "longitude": 120.61823,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 56-A Bacsil North",
+        "personnel": "Pat Arconado, Santos Resquir Jr.\n Pat Jimeno, Jennylyn Budayao",
+        "contactno": "9098729532\n 09517227258",
+        "latitude": 18.201259,
+        "longitude": 120.65506,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 40 Balatong",
+        "personnel": "Pat Licuan, Mark Justin Ubayan\n Pat Agcaoili, Carlo Agbayani",
+        "contactno": "9363350084\n 9561723897",
+        "latitude": 18.16302,
+        "longitude": 120.5527,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 41 Balacad",
+        "personnel": "PCpl Julian, Romnick Bayudan\n PCpl Ansagay, Diofrey King Samapayan",
+        "contactno": "9163316395\n '09771053335",
+        "latitude": 18.15839,
+        "longitude": 120.54555,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 45 Tangid",
+        "personnel": "PSSg Tagari, Noel Benedict Simbulan",
+        "contactno": 9985642645,
+        "latitude": 18.19507,
+        "longitude": 120.56876,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 50 Buttong",
+        "personnel": "PSSg Magaoay, Artemio Balase",
+        "contactno": 9338246223,
+        "latitude": 18.18667,
+        "longitude": 120.58247,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 49-A Darayday",
+        "personnel": "PSMS Domingo, Jayson Manuel",
+        "contactno": 9498587444,
+        "latitude": 18.17589,
+        "longitude": 120.56515,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 49-B Raraburan",
+        "personnel": "PMSg Divina, Allan Ancheta",
+        "contactno": "09531253616",
+        "latitude": 18.18098,
+        "longitude": 120.58582,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy Gabu, Laoag City",
+        "personnel": "PSMS Yanos, Cleofe Gregorio",
+        "contactno": "09286285120",
+        "latitude": 18.18835,
+        "longitude": 120.52942,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 36 Araniw",
+        "personnel": "PSSg Belarmino, Seymour Will Pineda",
+        "contactno": "09565438024",
+        "latitude": 18.18474,
+        "longitude": 120.53807,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 37 Calayab",
+        "personnel": "PMSg Antonio, Melmar Patoc",
+        "contactno": "09464939714",
+        "latitude": 18.14958,
+        "longitude": 120.53274,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 38-A Mangato East",
+        "personnel": "Pat John Allen Limos\n Pat Judine B Bitanga",
+        "contactno": "09564077167 \n 09260188306",
+        "latitude": 18.17662,
+        "longitude": 120.5585,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 38-B Mangato",
+        "personnel": "Pat John Vincent Iddo \nPat Vince Dane Rodriguez",
+        "contactno": "09154133626\n 09156737261",
+        "latitude": 18.17219,
+        "longitude": 120.54572,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 42 Apaya",
+        "personnel": "PSSg Layugan, Jonel Layugan\n PSSg Domingo, Virgilio Pascua",
+        "contactno": "9164620261\n 09265529058",
+        "latitude": 18.16838,
+        "longitude": 120.53354,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 39 Santa Rosa",
+        "personnel": "Pat Jolly Ernest Maguddatu \n Pat Jonathan A Banza",
+        "contactno": "09261022518 \n 9157647097",
+        "latitude": 18.16826,
+        "longitude": 120.54344,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 44 Zamboanga",
+        "personnel": "Pat John Raboy Javellana \n Pat Reymart Velarde",
+        "contactno": "09953616879 \n 09384562409",
+        "latitude": 18.1891,
+        "longitude": 120.54568,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy48-A Cabungaan",
+        "personnel": "PCpl Henrich-J Villanueva \n Pat Jerom Egar",
+        "contactno": "09279430513 \n 09953629189",
+        "latitude": 18.18843,
+        "longitude": 120.55311,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Laoag City",
+        "location": "Brgy 48-B Cabungaan",
+        "personnel": "Pat Israel Manuel\n Pat Christopher Laforga",
+        "contactno": "09070158746\n 09357901607",
+        "latitude": 18.18173,
+        "longitude": 120.55384,
+        "comelecofficer": "Atty. Julius Harvey P Balbas",
+        "comeleccontactno": 9171881008
+    },
+    {
+        "stationunit": "Adams",
+        "location": "Adams Central Elementary School",
+        "personnel": "PEMS Ferdinand V Robles\nPMSg Joey L Gervacio\r\nPSSg Nimrod C Campañano\r\nPCpl Kristofer S Pedronan\r\nPCpl Edelmar De Los Reyes\r\nPCpl Raymund M Acebedo\r\nPat Margie B Chua\r\nPat Jefferson Kris B Sugayen\r\nPat Ronie P Rabara\r\nPat Jasmin Apryl B Aguinaldo\r\nPat Maria Cristina B Sagun\r\nPat John Marlon L Malapit",
+        "contactno": "9989552098\n9771554417\r\n9205362676\r\n9996783897\r\n9207754512\r\n9193713907\r\n9469714449\r\n9506272880\r\n9971591428\r\n9777389432\r\n9463698095\r\n9157626095",
+        "latitude": 18.462372,
+        "longitude": 120.901716,
+        "comelecofficer": "Helardo Tarnate",
+        "comeleccontactno": 9991621029
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "North Central School \nBrgy Lacuben, Badoc, Ilocos Norte\n\n",
+        "personnel": "PSSg Registus T Guinid\nOne (1) PNP Augmentation\r\n",
+        "contactno": 93657636970,
+        "latitude": 17.93183,
+        "longitude": 120.476403,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "South Central School  \nBrgy Garreta, Badoc, Ilocos Norte\n\n",
+        "personnel": "PMSg Rodolfo V Sadian, Jr\nOne (1) PNP Augmentation\n",
+        "contactno": 9453122719,
+        "latitude": 17.926361,
+        "longitude": 120.475055,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Gabut Elementary School\nBrgy Gabut Norte, Badoc, Ilocos Norte",
+        "personnel": "PSSg Lassie Me D Agpalo\nOne (1) PNP Augmentation\n",
+        "contactno": 9155227542,
+        "latitude": 17.965016,
+        "longitude": 120.474088,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Mabusag-Napu Elementary School\nBrgy. Mabusag Norte, Badoc, Ilocos Norte\n\n\n",
+        "personnel": "PSSg RM Karl F Mendoza\nOne (1) PNP Augmentation\n",
+        "contactno": 9177047106,
+        "latitude": 17.938668,
+        "longitude": 120.492202,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Mabusag Primary School\nBrgy. Mabusag Sur, Badoc, Ilocos Norte\n",
+        "personnel": "PCpl John Patrick R Ferrer\nOne (1) PNP Augmentation\n",
+        "contactno": 9265849219,
+        "latitude": 17.933214,
+        "longitude": 120.504305,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Morong Elementary School\nBrgy Morong, Badoc, Ilocos Norte\n",
+        "personnel": "PSSg Kevin Mark P Calaycay\nOne (1) PNP Augmentation\n",
+        "contactno": 9972702509,
+        "latitude": 17.914312,
+        "longitude": 120.455441,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Paguetpet Elementary School\nBrgy La Virgen Milagrosa, Badoc, Ilocos Norte\n",
+        "personnel": "PCpl Lloyd Louie R Bacnis\nOne (1) PNP Augmentation",
+        "contactno": 9178129404,
+        "latitude": 17.904257,
+        "longitude": 120.442229,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Pagsanahan Elementary School\nBrgy Pagsanahan Sur, Badoc, Ilocos Norte\n",
+        "personnel": "PCpl Rollie Rocky V Ubaldo\nOne (1) PNP Augmentation\n",
+        "contactno": 9357636970,
+        "latitude": 17.917705,
+        "longitude": 120.439881,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Pasuc-Parang Elementary School\nBrgy. Pasuc, Badoc, Ilocos Norte\n",
+        "personnel": "PSSg Gerardo DR Balicbic\nOne (1) PNP Augmentation\n",
+        "contactno": 9616637257,
+        "latitude": 17.925843,
+        "longitude": 120.498341,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Saud Primary School\nBrgy Saud, Badoc, Ilocos Norte\n",
+        "personnel": "PSSg Alex Danne M Rondal\nOne (1) PNP Augmentation\n",
+        "contactno": 9171387024,
+        "latitude": 17.929446,
+        "longitude": 120.455954,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Nagrebcan Elementary School\nBrgy Alay, Badoc, Ilocos Norte\n",
+        "personnel": "PSSg Daryl Hanzel P Magbual\nOne (1) PNP Augmentation\n",
+        "contactno": 9678611883,
+        "latitude": 17.909451,
+        "longitude": 120.523729,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Ar-arusip Elementary School\nBrgy Ar-arusip, Badoc, Ilocos Norte\n",
+        "personnel": "Pat Ruben F Quario\nOne (1) PNP Augmentati",
+        "contactno": 9392438700,
+        "latitude": 17.910911,
+        "longitude": 120.512042,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Camanga Elementary School\nBrgy Camanga, Badoc, Ilocos Norte\n",
+        "personnel": "Pat Clovint Dave G Yoro\nPat Karl Jay M Quiaoit\n",
+        "contactno": "09954066469\n09273613404\n",
+        "latitude": 17.907475,
+        "longitude": 120.570979,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Caraitan Integrated School\nBrgy Caraitan, Badoc, Ilocos Norte\n",
+        "personnel": "PCpl Christine Joy P Galvan\nOne (1) PNP Augmentation\n",
+        "contactno": 9484823137,
+        "latitude": 17.905424,
+        "longitude": 120.475148,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Labut Elementary School\nBrgy Labut, Badoc, Ilocos Norte\n",
+        "personnel": "PSSg Jackychan D Cajigal\nOne (1) PNP Augmentation\n",
+        "contactno": 9453346513,
+        "latitude": 17.895689,
+        "longitude": 120.512184,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Paltit Elementary School\nBrgy Paltit, Badoc, Ilocos Norte\n",
+        "personnel": "PSMS Danilo S Rosaro\nOne (1) PNP Augmentation\n",
+        "contactno": 9267581133,
+        "latitude": 17.913918,
+        "longitude": 120.485626,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Madupayas Elementary School\nBrgy Madupayas, Badoc, Ilocos Norte\n",
+        "personnel": "Pat Donal D Calera, Jr\nPat Philip Jay C Pagtama\n",
+        "contactno": "09756601605\n09159277629\n",
+        "latitude": 17.906081,
+        "longitude": 120.547952,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Sta Cruz Elementary School\nBrgy Sta Cruz Norte, Badoc, Ilocos Norte\n",
+        "personnel": "PCpl Levy Jun S Rabor\nOne (1) PNP Augmentation\n",
+        "contactno": 9751895280,
+        "latitude": 17.906777,
+        "longitude": 120.467265,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    },
+    {
+        "stationunit": "Badoc",
+        "location": "Turod Elementary School\nBrgy Turod, Badoc, Ilocos Norte\n",
+        "personnel": "Pat Charles Ray M Simisim\nOne (1) PNP Augmentation\n",
+        "contactno": 9957403661,
+        "latitude": 17.888999,
+        "longitude": 120.503392,
+        "comelecofficer": "Mr. Paul John L. Gagarin",
+        "comeleccontactno": "9993025031/ 936966879"
+    }
+]
