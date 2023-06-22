@@ -1421,8 +1421,8 @@
         "location": "Caribquib Elem School/Brgy Caribquib, Banna, INorte",
         "personnel": "PCpl Krista Ann B Manicdo\n",
         "contactno": 9074684822,
-        "latitude": 18.0007,
-        "longitude": 120.4002,
+        "latitude": 18.002011019162104,
+        "longitude": 120.66770591572532,
         "comelecofficer": "Mrs. Merlyn A Mabuti",
         "comeleccontactno": 9275449533
     },
@@ -1431,8 +1431,8 @@
         "location": "Barbarangay Elem School/Brgy Barbarangay, Banna, INorte",
         "personnel": "PSSg Kingsley M Rubio",
         "contactno": 9454594867,
-        "latitude": 18.0054,
-        "longitude": 120.381,
+        "latitude": 18.015467931253358, 
+        "longitude": 120.6361620948416,
         "comelecofficer": "Mrs. Merlyn A Mabuti",
         "comeleccontactno": 9275449533
     },
@@ -1857,5 +1857,1413 @@
         "longitude": 120.72802,
         "comelecofficer": "Milagros F. Aguinaldo",
         "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dumalneg",
+        "location": "Dumalneg Elem School Brgy Kalaw Dumalneg Ilocos Norte",
+        "personnel": "PMSg Teddyson Villa\nPSSg Ryan Rodillas",
+        "contactno": "09567231848\n09168248867",
+        "latitude": 18.5231,
+        "longitude": 120.8064,
+        "comelecofficer": "Raul Joseph Bubuan ",
+        "comeleccontactno": 9274634737
+    },
+    {
+        "stationunit": "Dumalneg",
+        "location": "San Isidro Elem School Brgy San Isidro Dumalneg Ilocos Norte",
+        "personnel": "PSSg Ely Ramos\nPat Phillip Joshua Pasion",
+        "contactno": "9559042912\n09684443323",
+        "latitude": 18.53124,
+        "longitude": 120.79491,
+        "comelecofficer": "Raul Joseph Bubuan ",
+        "comeleccontactno": 9274634737
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Marcos National High School Brgy Lydia, Marcos, Ilocos Norte",
+        "personnel": "PEMS Emerlita Fabros\nPCpl Sherlilin Tomas",
+        "contactno": "9273731736\n9564197235",
+        "latitude": 18.042532,
+        "longitude": 120.6733236,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Biding Elem School, Brgy Valdez, Marcos, Ilocos Norte ",
+        "personnel": "PSSg Carl Jeslie Aguigam",
+        "contactno": 9272456670,
+        "latitude": 18.0456538,
+        "longitude": 120.6835505,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Imelda Elem School Brgy Imelda, Marcos, Ilocos Norte",
+        "personnel": "PCMS Richelle Ortega\nPCpl El Marc James Yoro",
+        "contactno": 9957442424,
+        "latitude": 18.0588117,
+        "longitude": 120.6679681,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Mabuti Elem School Brgy Mabuti, Marcos, Ilocos Norte",
+        "personnel": "PSSg Jomar Ramos",
+        "contactno": 9301373665,
+        "latitude": 18.07173,
+        "longitude": 120.6665548,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "F. Daquioag Elem School Brgy Daquioag, Marcos, Ilocos Norte",
+        "personnel": "PCpl Roderick Taylan",
+        "contactno": 9565789509,
+        "latitude": 18.0500043,
+        "longitude": 120.6807595,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Fortuna Elem School Brgy Fortuna, Marcos, Ilocos Norte",
+        "personnel": "PMSg Eric Davis Correa",
+        "contactno": 9276969448,
+        "latitude": 18.0147527,
+        "longitude": 120.6717491,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Tabucbuc Elem School Brgy Tabucbuc, Marcos, Ilocos Norte",
+        "personnel": "PCpl Jhanrex Angelo Parco",
+        "contactno": 9675092276,
+        "latitude": 18.0079328,
+        "longitude": 120.6960666,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Escoda Elem School Brgy Escoda, Marcos, Ilocos Norte",
+        "personnel": "PCpl Ezar Nacionales",
+        "contactno": 9560722678,
+        "latitude": 18.0175485,
+        "longitude": 120.7016886,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Pacifico Elem School Brgy Pacifico, Marcos, Ilocos Norte",
+        "personnel": "PCpl Michael Agacer",
+        "contactno": 9369282291,
+        "latitude": 18.0305304,
+        "longitude": 120.7065742,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Santiago Elem School Brgy Santiago, Marcos, Ilocos Norte",
+        "personnel": "PSSg Ronnie Ullero",
+        "contactno": 9179350466,
+        "latitude": 17.9830274,
+        "longitude": 120.7189308,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Ferdinand Elem School Brgy Ferdinand, Marcos, Ilocos Norte",
+        "personnel": "PCpl Ar Hubert Agcaoili",
+        "contactno": 9454771034,
+        "latitude": 17.9818415,
+        "longitude": 120.728181,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Elizabeth Elem School Brgy Elizabeth, Marcos, Ilocos Norte",
+        "personnel": "PSSg Dennis Ranga",
+        "contactno": 9053420176,
+        "latitude": 18.0496595,
+        "longitude": 120.7238721,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Marcos",
+        "location": "Cacafean Elem School Brgy Cacafean, Marcos, Ilocos Norte",
+        "personnel": "PSSg Froilan Arsitio\nPSSg Nasser Agrade",
+        "contactno": "9387751927\n09097575104\n",
+        "latitude": 18.0052273,
+        "longitude": 120.7470327,
+        "comelecofficer": "Ma. Lourdes Rabang",
+        "comeleccontactno": 9277032659
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "NUEVA ERA CENTRAL ELEM SCHOOL/ BRGY POBLACION",
+        "personnel": "PSMS Gusman Rhamelle Gajonera",
+        "contactno": 9482933197,
+        "latitude": 17.91647858,
+        "longitude": 120.6630483,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "BARIKIR ELEM SCHOOL/ BRGY BARIKIR",
+        "personnel": "Pat Guimsay Ardel",
+        "contactno": 908728565,
+        "latitude": 17.92402254,
+        "longitude": 120.672667,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "ACNAM BARANGAY HALL/BRGY HALL",
+        "personnel": "PSSg Sagasag Marinela Condersa Balaoat\n PCpl Parco Aisa Fiesta",
+        "contactno": "09657520512\n 09616071361",
+        "latitude": 17.93148196,
+        "longitude": 120.6789914,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "CARAY BRGY HALL/ BRGY CARAY",
+        "personnel": "PSSg Guimsay Archie Albano",
+        "contactno": 9159405390,
+        "latitude": 17.93972193,
+        "longitude": 120.6862548,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "CABITTAURAN ELEM SCHOOL/ BRGY CABITTAURAN",
+        "personnel": "PSSg Mamuad Jeniefer Rosario",
+        "contactno": 9171699107,
+        "latitude": 17.94436774,
+        "longitude": 120.7063955,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "STO NÑO ELEM SCHOOL/ BRGY STO NIÑO",
+        "personnel": "PSSg Dumalag Dexter Vincent Calamayan",
+        "contactno": 9174368406,
+        "latitude": 17.95577714,
+        "longitude": 120.7148176,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "NAGUILLAN ELEM SCHOOL/ BRGY NAGUILLAN",
+        "personnel": "PSSg Jugo Gerald",
+        "contactno": 9399121010,
+        "latitude": 17.90631727,
+        "longitude": 120.6332731,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "GARNADEN ELEM SCHOOL/ BRGY GARNADEN",
+        "personnel": "Pat Corpuz Kingsleidunelex B",
+        "latitude": 17.91629738,
+        "longitude": 120.6233838,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "BUGAYONG BRGY HALL/ BUGAYONG",
+        "personnel": "PCpl Sigabu Dominick Sande",
+        "contactno": 9179488919,
+        "latitude": 17.93252825,
+        "longitude": 120.6076258,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "UGUIS INTEGRATED SCHOOL/ BRGY UGUIS",
+        "personnel": "PSSg Salem, Felorich Tauyan",
+        "contactno": 9959471825,
+        "latitude": 17.89443663,
+        "longitude": 120.5711639,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Nueva Era",
+        "location": "BARANGOBONG ELEM SCHOOL/ BRGY BARANGOBONG",
+        "personnel": "PSSg Langasan Harold Gaerlan\n PCpl Molines Kelvin Roland Pascua",
+        "contactno": "09065933189\n 09171449810",
+        "latitude": 17.84168167,
+        "longitude": 120.5756056,
+        "comelecofficer": "Mr Nitos D Pasalo",
+        "comeleccontactno": 9279191773
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "SOUTH CENTRAL ELEM. SCHOOL",
+        "personnel": "PMSg Rodelito Ramos",
+        "contactno": 9087820539,
+        "latitude": 18.563522,
+        "longitude": 120.789574,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "PAGUDPUD CENTRAL ELEM. SCHOOL",
+        "personnel": "PSSg Jenny Rose Gaces\nPat Charlene Rabe",
+        "contactno": "9267646567\n9075137907",
+        "latitude": 18.559862,
+        "longitude": 120.786869,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "AGGASI ELEMENTARY SCHOOL",
+        "personnel": "PCpl Mark M Bonuen",
+        "contactno": 9173910860,
+        "latitude": 18.563523,
+        "longitude": 120.789573,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "LUZONG ELEM. SCHOOL",
+        "personnel": "PSSg Rolly Ramoran",
+        "contactno": 9685663311,
+        "latitude": 18.549707,
+        "longitude": 120.814376,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "BALAOI PRIMARY SCHOOL",
+        "personnel": "Pat Giovann Salipe",
+        "contactno": 9073109864,
+        "latitude": 18.5706,
+        "longitude": 120.811091,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "GAMABAN ELEMENTARY SCHOOL",
+        "personnel": "Pat Mark Anthony Cariaga",
+        "contactno": 9267921196,
+        "latitude": 18.579971,
+        "longitude": 120.792763,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "BURAYOC ELEM. SCHOOL",
+        "personnel": "Pat Roldan Asistores\nPat Macaulay Escucharo",
+        "contactno": "9975485416\n9664369519",
+        "latitude": 18.579971,
+        "longitude": 120.792761,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "CAPARISPISAN PRIMARY SCHOOL",
+        "personnel": "PMSg Haslyn Utleg",
+        "contactno": 9999982651,
+        "latitude": 18.604537,
+        "longitude": 120.80665,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "CAUNAYAN ELEM. SCHOOL",
+        "personnel": "PMSg Elmer Tarupa",
+        "contactno": 9068597188,
+        "latitude": 18.599494,
+        "longitude": 120.833601,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "DAMPIG ELEM. SCHOOL",
+        "personnel": "PSSg Frederick Talbo",
+        "contactno": 917910860,
+        "latitude": 18.539999,
+        "longitude": 120.819935,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "LIGAYA BARANGAY HALL",
+        "personnel": "PSSg Filamaor Dalire",
+        "contactno": 9103454455,
+        "latitude": 18.557976,
+        "longitude": 120.787841,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "PANCIAN ELEM. SCHOOL",
+        "personnel": "Pat Alvin Alicay\nPat Noelito Balisi",
+        "contactno": "9614484876\n9976625977",
+        "latitude": 18.565411,
+        "longitude": 120.905021,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "PASALENG ELEM. SCHOOL",
+        "personnel": "Pat Romeo Daniel \nPat Eric Cardenas",
+        "contactno": "9531006695\n9666106256",
+        "latitude": 18.549585,
+        "longitude": 120.943753,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "SAGUIGUI ELEM. SCHOOL",
+        "personnel": "PCpl Marcon Ventura",
+        "contactno": 9501551150,
+        "latitude": 18.562983,
+        "longitude": 120.813574,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "SAUD ELEM. SCHOOL",
+        "personnel": "PCpl Debby Anne Respicio\nPat Marc Vin Mariano",
+        "contactno": "9484713934\n9458230125",
+        "latitude": 18.590992,
+        "longitude": 120.787642,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "SUBEC ELEM. SCHOOL",
+        "personnel": "PCpl Jermaine Jake Rialubin\nPCPl Ramil Mangabat",
+        "contactno": "9158688650\n9666106256",
+        "latitude": 18.578954,
+        "longitude": 120.809539,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Pagudpud",
+        "location": "TARRAG ELEM. SCHOOL",
+        "personnel": "PSSg Robert Javillonar",
+        "contactno": 9166949368,
+        "latitude": 18.578128,
+        "longitude": 120.817996,
+        "comelecofficer": "Mrs Clarivic Manegdeg y Fabi",
+        "comeleccontactno": "(09171587002"
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Cabaroan, Piddig, Ilocos Norte",
+        "personnel": "PSsg Bezaleel T Baengan",
+        "contactno": 9954388875,
+        "latitude": 18.168203,
+        "longitude": 120.719545,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Cabaroan, Piddig, Ilocos Norte",
+        "personnel": "PCpl Lovely Joy Agustin",
+        "contactno": 9194849905,
+        "latitude": 18.16742,
+        "longitude": 120.71974,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Tonoton, Piddig, Ilocos Norte",
+        "personnel": "Pcpl Lucky Ver Manding",
+        "contactno": 9612444662,
+        "latitude": 18.14907,
+        "longitude": 120.69838,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Tangaoan, Piddig, Ilocos Norte",
+        "personnel": "PSsg John Michael Taccuban",
+        "contactno": 9690152396,
+        "latitude": 18.18203,
+        "longitude": 120.69518,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Ab-abut, Piddig, Ilocos Norte",
+        "personnel": "PCpl Marlon P Tagala",
+        "contactno": 9999966635,
+        "latitude": 18.16897,
+        "longitude": 120.69539,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Lagandit, Piddig, Ilocos Norte",
+        "personnel": "PCpl Julius F Castro",
+        "contactno": 9052945552,
+        "latitude": 18.19217,
+        "longitude": 120.70346,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Maab-abaca, Piddig, Ilocos Norte",
+        "personnel": "PSsg Rexy Manuel",
+        "contactno": 9662889975,
+        "latitude": 18.18085,
+        "longitude": 120.71038,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Libnaoan, Piddig, Ilocos Norte",
+        "personnel": "Pat Monsour Maiko Viernes",
+        "contactno": 9917126361,
+        "latitude": 18.18245,
+        "longitude": 120.71962,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Calambeg, Piddig, Ilocos Norte",
+        "personnel": "Pat Matthew Lawrence T Laureta",
+        "contactno": "09456144127",
+        "latitude": 18.18787,
+        "longitude": 120.72482,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Maruaya, Piidig, Ilocos Norte",
+        "personnel": "Pat Ivy Mae L Sagun",
+        "contactno": 9262106024,
+        "latitude": 120.1704,
+        "longitude": 120.73117,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Gayamat,Piddig, Ilocos Norte",
+        "personnel": "PCpl Jessie James Aquino",
+        "contactno": 9266856677,
+        "latitude": 18.16659,
+        "longitude": 120.73475,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Dupitac, Piddig, Ilocos Norte",
+        "personnel": "PSMs Jefferson Sulmerin",
+        "contactno": 9460640996,
+        "latitude": 18.16436,
+        "longitude": 120.75347,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Estancia, Piddig, Ilocos Norte",
+        "personnel": "PCpl Francis Andrew Pascua",
+        "contactno": 9632027545,
+        "latitude": 18.15899,
+        "longitude": 120.76177,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Abucay, Piddig, Ilocos Norte",
+        "personnel": "PSsg John Paul Agbayani",
+        "contactno": 9054119227,
+        "latitude": 18.16102,
+        "longitude": 120.73712,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Sta Maria, Piddig, Ilocos Norte",
+        "personnel": "PCpl Luigie Mark Sahagun",
+        "contactno": 9669062879,
+        "latitude": 18.13086,
+        "longitude": 120.78464,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy Boyboy Piddig, Ilocos Norte",
+        "personnel": "Jessie Dela Cruz",
+        "contactno": 9957485933,
+        "latitude": 18.14069,
+        "longitude": 120.71928,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Piddig",
+        "location": "Brgy San Antonio, Piddig, Ilocos Norte",
+        "personnel": "PSMs Sheiramae Maryzol Agtarap",
+        "contactno": 9168287335,
+        "latitude": 18.1382,
+        "longitude": 120.80777,
+        "comelecofficer": "Ms. Judy A Adriano",
+        "comeleccontactno": 9279581065
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "DON MARIANO MARCOS MEMORIAL ELEMENTARY SCHOOL, BRGY PAGDILAO",
+        "personnel": "Pat Rexon Calamno",
+        "contactno": 9458292607,
+        "latitude": 17.951745,
+        "longitude": 120.526107,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "AGLIPAY BRGY HALL, BRGY AGLIPAY",
+        "personnel": "PSSg Marvin A Laeno",
+        "contactno": 9260742011,
+        "latitude": 17.944129,
+        "longitude": 120.533682,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "APATUT LUBONG BRGY HALL, BRGY APATUT-LUBONG",
+        "personnel": "AUGMENT",
+        "latitude": 17.964845,
+        "longitude": 120.478993,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "BADIO ELEM. SCHOOL, BARANGAY BADIO",
+        "personnel": "PSSg Farley Jay S Fernandez",
+        "contactno": 9083105697,
+        "latitude": 17.954447,
+        "longitude": 120.50961,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "BARBAR ELEM. SCHOOL, BRGY BARBAR",
+        "personnel": "PSSg Razel L Go",
+        "contactno": 9656090817,
+        "latitude": 17.925342,
+        "longitude": 120.524771,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "BUANGA ELEM. SCHOOL, BRGY BUANGA",
+        "personnel": "AUGMENT",
+        "latitude": 17.964746,
+        "longitude": 120.563064,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "BULBULALA ELEM. SCHOOL, BRGY BULBULALA",
+        "personnel": "AUGMENT",
+        "latitude": 17.946876,
+        "longitude": 120.507179,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "PUGAOAN-BUNGRO ELEM. SCHOOL, BRGY PUGAOAN",
+        "personnel": "Pat John Patrick Tugas",
+        "contactno": 9155155173,
+        "latitude": 17.928023,
+        "longitude": 120.534336,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "CABAROAN ELEM. SCHOOL, BRGY CABAROAN",
+        "personnel": "PSSg Francis Tabladillo",
+        "contactno": 9052989811,
+        "latitude": 17.955149,
+        "longitude": 120.555679820576,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "CAPANGDANAN BRGY HALL, BRGY CAPANGDANAN",
+        "personnel": "AUGMENT",
+        "latitude": 17.956975,
+        "longitude": 120.503024,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "DALAYAP BRGY HALL, BRGY DALAYAP",
+        "personnel": "AUGMENT",
+        "latitude": 17.974762,
+        "longitude": 120.528859,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "DARAT ELEM. SCHOOL, BRGY DARAT",
+        "personnel": "Pat Jaymarc Cabarabang",
+        "contactno": 9976152243,
+        "latitude": 17.952709,
+        "longitude": 120.48911,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "GULPENG PRIMARY SCHOOL, BRGY GULPENG",
+        "personnel": "AUGMENT",
+        "latitude": 17.967253,
+        "longitude": 120.494014,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "LILIPUTEN ELEM. SCHOOL, BRGY LILIPUTEN",
+        "personnel": "AUGMENT",
+        "latitude": 17.940463,
+        "longitude": 120.582355,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "LUMBAAN BICBICA BRGY HALL, BRGY LUMBAAN BICBICA",
+        "personnel": "AUGMENT",
+        "latitude": 17.913996,
+        "longitude": 120.617768,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "BICBICA PRIMARY SCHOOL, BRGY LUMBAAN BICBICA",
+        "personnel": "AUGMENT",
+        "latitude": 17.930056,
+        "longitude": 120.612193,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "NAGTRIGOAN ELEM. SCHOOL, BRGY NAGTRIGOAN",
+        "personnel": "AUGMENT",
+        "latitude": 17.973597,
+        "longitude": 120.544392,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "PURITAC DALAYAP ELEM SCHOOL, BRGY DALAYAP",
+        "personnel": "Pat Francis Balbin",
+        "contactno": 9054695324,
+        "latitude": 17.966327,
+        "longitude": 120.52879,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "PUZOL ELEM SCHOOL, BRGY PUZOL",
+        "personnel": "PSSg Ruzzel A Cabie",
+        "contactno": 9291123281,
+        "latitude": 17.938805,
+        "longitude": 120.514316,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "SACRITAN INTEGRATED SCHOOL, BRGY SACRITAN",
+        "personnel": "AUGMENT",
+        "latitude": 17.911603,
+        "longitude": 120.611212,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "SALANAP ELEM SCHOOL, BRGY SALANAP",
+        "personnel": "PCpl Marc Anthony Rafanan",
+        "contactno": 9976158596,
+        "latitude": 17.940003,
+        "longitude": 120.525645,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "STO TOMAS ELEM SCHOOL, BRGY STO TOMAS",
+        "personnel": "PCpl Arvin Joseph Cagat",
+        "contactno": 9366888114,
+        "latitude": 17.945769,
+        "longitude": 120.551816,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "TARTARABANG BRGY HALL, BRGY TARTARABANG",
+        "personnel": "AUGMENT",
+        "latitude": 17.941858,
+        "longitude": 120.521948,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pinili",
+        "location": "UPON PRIMARY SCHOOL, BRGY UPON",
+        "personnel": "AUGMENT",
+        "latitude": 17.961006,
+        "longitude": 120.54036,
+        "comelecofficer": "MS JOEANNE S PEREZ",
+        "comeleccontactno": 9175999477
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "EAST CENTRAL ELEM SCHOOL/ BRGY POBLCION 1",
+        "personnel": "PCpl Jordan C Agraan",
+        "contactno": 9561592083,
+        "latitude": 18.3342288,
+        "longitude": 120.6180525,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "GABALDON ELEM SCHOOL/ BRGY 13 NAGLICUAN (POB 3-4 PRECINT)",
+        "personnel": "PCpl Kristan B Manuel",
+        "contactno": 9353439603,
+        "latitude": 18.3271254,
+        "longitude": 120.6132278,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "WEST CENTRAL ELEM SCHOOL/ BRGY POBLCION 1",
+        "personnel": "PCpl Rafael Pascua",
+        "contactno": 9100070469,
+        "latitude": 18.3339758,
+        "longitude": 120.6178853,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "WEST CENTRAL ELEM SCHOOL/ (BRGY POBLCION 4)",
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "NAGABUNGAN ELEM SCHOOL/ BRGY DAVILA",
+        "personnel": "Pat Harley Aquino",
+        "contactno": 9152733020,
+        "latitude": 18.4790646,
+        "longitude": 120.5729093,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "DAVILA ELEMENTARY SCHOOL/ BRGY 5 DAVILA",
+        "personnel": "For finalization",
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "DILAVO ELEM SCHOOL/ BRGY DILAVO",
+        "personnel": "PCpl Ferdinand Sacsac",
+        "latitude": 18.431271,
+        "longitude": 120.5858061,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "CARUAN ELEM SCHOOL/ BRGY 7 CARUAN",
+        "personnel": "Pat Roldan Bayani",
+        "contactno": 9977825223,
+        "latitude": 18.382056,
+        "longitude": 120.5963491,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "SULONGAN BRGY HALL/ B RGY SULONGAN",
+        "personnel": "Pat Rollie Calulot",
+        "latitude": 18.3828022,
+        "longitude": 120.6055454,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "CABABAAN ELEM SCHOOL/ BRGY SUSUGAEN",
+        "personnel": "PSSg Aldrich Simon",
+        "latitude": 18.362457,
+        "longitude": 120.6036001,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "ESTANCIA BRGY HALL/ BRGY 10 ESTANCIA",
+        "personnel": "Pat Marcial Aguda Jr",
+        "contactno": 9393538058,
+        "latitude": 18.3747654,
+        "longitude": 120.6015564,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "NALVO BRGY HALL/ BRGY 11 NALVO",
+        "personnel": "PSSg Gerald Ratuita",
+        "contactno": 9952300213,
+        "latitude": 18.3543961,
+        "longitude": 120.6030747,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "PUYUPUYAN ELEM SCHOOL/ BRGY 12 PUYUPUYAN",
+        "personnel": "Pat Bryan Cabbangan",
+        "contactno": 9953636909,
+        "latitude": 18.334738,
+        "longitude": 120.6048091,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "GABALDON ELEM SCHOOL, NAGLICUAN ELEM SCHOOL/ BRGY 13 NAGLICUAN",
+        "personnel": "PSSg Arnold Dimaano",
+        "contactno": 9995533292,
+        "latitude": 18.3271254,
+        "longitude": 120.6132278,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "NAGLICUAN ELEMENTARY SCHOOL/ BRGY 13 NAGLICUAN",
+        "personnel": "For finalization",
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "BINSANG ELEM SCHOOL/ BRGY 14 BINSANG",
+        "personnel": "PSSg Andrew Acidera",
+        "latitude": 18.2973492,
+        "longitude": 120.5937859,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "PANGIL PRIMARY SCHOOL/ BRGY PANGIL",
+        "personnel": "PSSg Mark Jayson Mariano",
+        "contactno": 9056621031,
+        "latitude": 18.2965196,
+        "longitude": 120.6392545,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "CARUSIPAN BRGY HALL/ BRGY 16 CARUSIPAN",
+        "personnel": "PCpl Julius S James",
+        "contactno": 9157870621,
+        "latitude": 18.2993222,
+        "longitude": 120.6062216,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "NGABANGAB BRGY HALL/ BRGY 17 NGABANGAB",
+        "personnel": "PCpl Juvie Anne A Barroga",
+        "contactno": 9076936652,
+        "latitude": 18.3050227,
+        "longitude": 120.6095104,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "BATULI BRGY HALL/ BRGY SAN ISIDRO",
+        "personnel": "For finalization",
+        "latitude": 18.3152362,
+        "longitude": 120.6141323,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "DARUPIDIP BRGY HALL/ BRGY DARUPIDIP",
+        "personnel": "For finalization",
+        "latitude": 18.3006948,
+        "longitude": 120.6197305,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "TABUNGAO PRIM SCHOOL/ BRGY 20 TABUNNGAO",
+        "personnel": "For finalization",
+        "latitude": 18.313776,
+        "longitude": 120.6213334,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "DADAEMAN ELEM SCHOOL/ BRGY 21 DADAEMAN",
+        "personnel": "For finalization",
+        "latitude": 18.3027927,
+        "longitude": 120.6134386,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "DILANIS ELEM SCHOOL/ BRGY 22 DILANIS",
+        "personnel": "For finalization",
+        "latitude": 18.3103382,
+        "longitude": 120.637646,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "STA CATALINA ELEM SCHOOL/ BRGY 23 STA CATALINA",
+        "personnel": "For finalization",
+        "latitude": 18.3063457,
+        "longitude": 120.6687613,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "NAGSANGA ELEM SCHOOL/ BRGY 24 NAGSANGA",
+        "personnel": "PSSg Ariel Ratuita",
+        "contactno": 9478485416,
+        "latitude": 18.3473845,
+        "longitude": 120.6142572,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "PRAGATA BRGY HALL/ BRGY 25 PRAGATA",
+        "personnel": "PCpl James C Villanos",
+        "contactno": 9363373765,
+        "latitude": 18.3453523,
+        "longitude": 120.6028967,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "SALPAD BRGY HALL/ BRGY 26 SALPAD",
+        "personnel": "For finalization",
+        "latitude": 18.3575717,
+        "longitude": 120.6223498,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "SULBEC ELEM BRGY HALL/ BRGY 27 SULBEC",
+        "personnel": "For finalization",
+        "latitude": 18.3482246,
+        "longitude": 120.6263796,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "SURONG ELEM SCHOOL/ SURONG",
+        "personnel": "For finalization",
+        "latitude": 18.3211764,
+        "longitude": 120.6399124,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "SAN JUAN ELEM SCHOOL/ BRGY SAN JUAN",
+        "personnel": "For finalization",
+        "latitude": 18.3312613,
+        "longitude": 120.6599824,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "MADALYAP ELEM SCHOOL/ BRGY STA MATILDE",
+        "personnel": "For finalization",
+        "latitude": 18.3253406,
+        "longitude": 120.6804486,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "CARUSIKIS ELEM SCHOOL. BRGY 31 CARUSIKIS",
+        "personnel": "For finalization",
+        "latitude": 18.336855,
+        "longitude": 120.6800101,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "SAPAT BRGY HALL/BRGY 32 SAPAT",
+        "personnel": "For finalization",
+        "latitude": 18.3926499,
+        "longitude": 120.6404665,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "Pasuquin",
+        "location": "TADAO ELEM SCHOOL/ BRGY 33 TADAO",
+        "personnel": "PCpl Jay P Garcia",
+        "contactno": 9127167355,
+        "latitude": 18.3821305,
+        "longitude": 120.6894611,
+        "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
+        "comeleccontactno": 9663428412
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Eladio V Barangan Elementary School Brgy14 San Gregorio, San Nicolas, Ilocos Norte",
+        "personnel": "PSSg Winellmar Aganus\nPat Douglas Many Factora\n",
+        "contactno": "09262082115\r\n09064471768\r\n",
+        "latitude": 18.174532,
+        "longitude": 120.589193,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "San Nicolas Elementary School Brgy3 San Ildefonso, San Nicolas, Ilocos Norte",
+        "personnel": "PCpl Marie Shiel Francisco\nPat Shane Laicha Layugan\n",
+        "contactno": "09207996453\n09814524539\n",
+        "latitude": 18.173039,
+        "longitude": 120.594284,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Filipinas West Elementary School Brgy7 San Miguel, San Nicolas, Ilocos Norte",
+        "personnel": "PCpl Grehma Jane Agustin\nPat Marvie Rivera\n",
+        "contactno": "09174893398\n09976816217\n",
+        "latitude": 18.17073,
+        "longitude": 120.602573,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Filipinas East Elementary School Brgy6 San Juan Bautista, San Nicolas, Ilocos Norte",
+        "personnel": "PSSg Michael Rambo Ramos\nPat James Kevin Gaoiran\n",
+        "contactno": "09683849179\n09751436063\n",
+        "latitude": 18.169436,
+        "longitude": 120.606164,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Pasion Barangan Memorial Elementary School Brgy24 Sta. Monica, San Nicolas, Ilocos Norte",
+        "personnel": "PCpl John Rey Nicolas\nPat Cedrick Canipas\n",
+        "contactno": "09190914914\n09278389698\n",
+        "latitude": 18.160331,
+        "longitude": 120.627736,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Barabar Elementary School Brgy23 Sta Cecilia, San Nicolas, Ilocos Norte",
+        "personnel": "PCpl Jomar Caballero\nPat Jamyr Pestano\n",
+        "contactno": "09664073119\n09953653372\n",
+        "latitude": 18.155127,
+        "longitude": 120.620451,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Cayetano Bumanglag Elementary School Brgy16 San Marcos, San Nicolas, Ilocos Norte\r",
+        "personnel": "PSSg Alan Caberto\nPat Hussin Tawali\n",
+        "contactno": "09457040923\n09678414564\n",
+        "latitude": 18.160791,
+        "longitude": 120.575893,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Asuncion Elementary School Brgy17 Sta Asuncion, San Nicolas, Ilocos Norte\r",
+        "personnel": "PSSg Jomar Ryan Ruiz\nPat Anthony Moskito\n",
+        "contactno": "09167173539\n09267276601\n",
+        "latitude": 18.144032,
+        "longitude": 120.558371,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Bingao Elementary School Brgy18 San Pedro, San Nicolas, Ilocos Norte\r",
+        "personnel": "Pat Eduardo So Jr\nPat Axl Bon Vinceneil Beting\n",
+        "contactno": "09458236912\n09915273238\n",
+        "latitude": 18.135273,
+        "longitude": 120.583001,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Bugnay Elementary School Brgy21 San Agustin, San Nicolas, Ilocos Norte\r\n",
+        "personnel": "PSSg Efren Gamit Jr\r\nPSSg Eunice Pascual\r\n",
+        "contactno": "09212078713\r\n09152752792\r\n",
+        "latitude": 18.125911,
+        "longitude": 120.591357,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "San Nicolas",
+        "location": "Catuguing Elementary School Brgy22 San Guillermo, San Nicolas, Ilocos Norte\r\n",
+        "personnel": "PMSg Larrymel Andres\nPat Lemuel Ulep\n",
+        "contactno": "09064625961\n09154056755\n",
+        "latitude": 18.152826,
+        "longitude": 120.595636,
+        "comelecofficer": "Wilson Balbas",
+        "comeleccontactno": 9185649173
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "BAGBAG ELEMENTARY SCHOOL, SITIO UMA",
+        "personnel": "PSMS Mario Errol Tangonan",
+        "contactno": 9106461283,
+        "latitude": "18.130501621245113, ",
+        "longitude": 120.754716843366,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "BARCELONA ELEMENTARY SCHOOL, SITIO IMPERIAL",
+        "personnel": "PCpl Lioyd Dizor",
+        "contactno": 9270680074,
+        "latitude": 18.1075684565104,
+        "longitude": 120.766002237796,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "CATANGRARAN ELEMENTARY SCHOOL, SITIO NAGTENGA",
+        "personnel": "Pat. James Van Flores",
+        "contactno": 9612154468,
+        "latitude": 18.0791508557614,
+        "longitude": 120.799116790294,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "DARASDAS ELEMENTARY SCHOOL, SITIOKAPIDDIGAN",
+        "personnel": "Pat Brian Reyes",
+        "contactno": 9150477969,
+        "latitude": 18.1116938093035,
+        "longitude": 120.778762847185,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "GABALDON ELEMENTARY SCHOOL(ANNEX) BRGY JUAN",
+        "personnel": "PSSg Louie Ballesteros",
+        "contactno": 9073121950,
+        "latitude": 18.094047620658,
+        "longitude": 120.771943114332,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "GABALDON ELEMENTARY SCHOOL(MAIN) BRGY LAURETA",
+        "personnel": "PCpl Ella Dizor",
+        "latitude": 18091475,
+        "longitude": 120.769954,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "LIPAY ELEMENTARY SCHOOL, SITIO 1",
+        "personnel": "PSSg Glenn Salem",
+        "contactno": 9099976072,
+        "latitude": 18.11580325162,
+        "longitude": 120.808044523,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "MAANANTENG ELEMENTARY SCHOOL, SITIO 4",
+        "personnel": "PSSg Benjie Ballesteros",
+        "contactno": 9273867671,
+        "latitude": 18.0981819361338,
+        "longitude": 120.811617225408,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "MANALPAC-MARIQUET ELEMENTARY SCHOOL, SITIO POSTOR BRGY MARIQUET",
+        "personnel": "PSSg Ramjorie Dela Cruz",
+        "contactno": 9954065178,
+        "latitude": 18.0906709237984,
+        "longitude": 120.793646425008,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "NAGPATPATAN ELEMENTARY SCHOOL, SITIO KABAYWASAN",
+        "personnel": "PSSg Emerson Raymundo",
+        "contactno": 9454893511,
+        "latitude": 18.0655844399694,
+        "longitude": 120.779705643653,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "SAN JUAN ELEMENTARY SCHOOL, SITIO KABAYWASAN",
+        "personnel": "PCpl Vinz Dominic Tacbian",
+        "contactno": 9661737158,
+        "latitude": 18.1181480298793,
+        "longitude": 120.744158327579,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "SANTIAGO ELEMENTARY SCHOOL, SITIO KABAYWASAN",
+        "personnel": "PSSg Mark Chester Leonen",
+        "contactno": 9277782597,
+        "latitude": 18.0987208774593,
+        "longitude": 120.742176175117,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "STA ANA ELEMENTARY SCHOOL, SITIO KABATACAN",
+        "personnel": "PSSg Jeffrey Fernandez",
+        "contactno": 9277784289,
+        "latitude": 18.0562726950962,
+        "longitude": 120.795549452304,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "TALUGTOG ELEMENTARY SCHOOL, SITIO KABAYWASAN",
+        "personnel": "Pat Arvin Commilang",
+        "contactno": 9672738171,
+        "latitude": 18.1058185430575,
+        "longitude": 120.79719364643,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Solsona",
+        "location": "BAGBAGO ELEMENTARY SCHOOL, SITIO 1",
+        "personnel": "PCplt Reymark John A Ortal",
+        "contactno": 9668162547,
+        "latitude": 18.0775546831428,
+        "longitude": 120.758990943431,
+        "comelecofficer": "Mr Aureu F Antolin Jr",
+        "comeleccontactno": 9167569405
     }
 ]
