@@ -1635,5 +1635,227 @@
         "longtitude": 120.487414596737,
         "comelecofficer": "Antonio Guillermo III",
         "comeleccontactno": 9171227039
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Espiritu Elementary School/Brgy. Espiritu, Dingras, Ilocos Norte",
+        "personnel": "PSSg Ernesto Dumawang              Augmentation",
+        "contactno": 9065042722,
+        "latitude": 18.09128,
+        "longtitude": 120.66743,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Bacsil Elementary School/Brgy. Bacsil, Dingras, Ilocos Norte",
+        "personnel": "PSSg Alberto Ramos               Augmentation",
+        "contactno": 9266569442,
+        "latitude": 18.10192,
+        "longtitude": 120.66752,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Capasan Elementary School/Brgy/ Capasan, Dingras, Ilocos Norte",
+        "personnel": "PSMS Quezon Romualdo              Augmentation",
+        "contactno": 9272577831,
+        "latitude": 18.11899,
+        "longtitude": 120.67438,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Suyo Elementary School/Brgy. Suyo, Dingras, Ilocos Norte",
+        "personnel": "PSMS Rowena Alma Chico           Augmentation",
+        "contactno": 9289677335,
+        "latitude": 18.13069,
+        "longtitude": 120.68355,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Brgy. Hall/Brgy. Bungcag, Dingras, Ilocos Norte",
+        "personnel": "PSSg Divina Kalano                Augmentation",
+        "contactno": 9212452300,
+        "latitude": 18.12004,
+        "longtitude": 120.690297,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Peralta Elementary School/Brgy. Peralta, Dingras, Ilocos Norte",
+        "personnel": "Pat Aileen Tamayo                  Augmentation",
+        "contactno": 9057066110,
+        "latitude": 18.10977,
+        "longtitude": 120.69446,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Dingras-West Central Elementary School/Brgy. Madamba, Dingras, Ilocos Norte",
+        "personnel": "PSSg Rowena Quintero               Augmentation",
+        "contactno": 9302353111,
+        "latitude": 18.10422,
+        "longtitude": 120.69906,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Dingras Central Elementary School/Brgy. Guerrero, Dingras, Ilocos Norte",
+        "personnel": "PEMS Samurai Valenzuela               Augmentation",
+        "contactno": 9171344175,
+        "latitude": 18.09497,
+        "longtitude": 120.70583,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Hilaria-Salvatierra Memorial Elementary School/Brgy. Foz, Dingras, Ilocos Norte",
+        "personnel": "PSSg Jhoana Emily Deus               Augmentation",
+        "contactno": 9338279684,
+        "latitude": 18.09409,
+        "longtitude": 120.72011,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Medina-Parado Elementary School/Brgy. Parado, Dingras, Ilocos Norte",
+        "personnel": "Pat Christian Maines                Augmentation",
+        "contactno": 96663826939,
+        "latitude": 18.0775,
+        "longtitude": 120.70428,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Cali-Saludares Elementary School/Brgy. Cali, Dingras, Ilocos Norte",
+        "personnel": "PSSg Ian Lord Rosqueta               Augmentation",
+        "contactno": 9171282656,
+        "latitude": 18.07218,
+        "longtitude": 120.68626,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Sulquiano Elementary School/Brgy. Sulquiano, Dingras, Ilocos Norte",
+        "personnel": "PSSg Ghen Mark Ross Cocson                                Augmetation",
+        "contactno": 9998634854,
+        "latitude": 18.08933,
+        "longtitude": 120.68371,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Barong Elementary School/Brgy. Barong, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.06849,
+        "longtitude": 120.72112,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Elizabeth-Lanas Elementary School/Brgy. Lanas, Dingras, Ilocos Norte",
+        "personnel": "PSSg Rene Baldugo                    Augmentation",
+        "contactno": 9167053179,
+        "latitude": 18.05465,
+        "longtitude": 120.71493,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Ver Elementary School/Brgy. Ver, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.04328,
+        "longtitude": 120.71481,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Baresbes Elementary School/Brgy. Baresbes, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.05993,
+        "longtitude": 120.74727,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "San Marcelino Elementary School/Brgy. San Marcelino, Dingras, Ilocos Norte",
+        "personnel": "Pat Jayser Paul Padua                      Augmentation",
+        "contactno": 9914754613,
+        "latitude": 18.03489,
+        "longtitude": 120.76191,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Francisco Elementary School/Brgy. San Francisco, Dingras, Ilocos Norte",
+        "personnel": "Pat John Mark Macutay                       Augmentation",
+        "contactno": 9972407915,
+        "latitude": 18.04005,
+        "longtitude": 120.77579,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Brgy. Hall/Brgy. Bagut, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.12995,
+        "longtitude": 120.7067,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Mandaloque Elementary School/Brgy. Mandaloque, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.12409,
+        "longtitude": 120.69946,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "San Esteban Elementary School/Brgy. San Esteban, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.128,
+        "longtitude": 120.72082,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Sagpatan Elementary School/Brgy. Sagpatan, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.10962,
+        "longtitude": 120.71844,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
+    },
+    {
+        "stationunit": "Dingras",
+        "location": "Brgy. Hall/Brgy. San Marcos, Dingras, Ilocos Norte",
+        "personnel": "Augmentation",
+        "latitude": 18.11598,
+        "longtitude": 120.72802,
+        "comelecofficer": "Milagros F. Aguinaldo",
+        "comeleccontactno": 9267103896
     }
 ]
