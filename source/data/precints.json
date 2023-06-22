@@ -2717,6 +2717,8 @@
     {
         "stationunit": "Pasuquin",
         "location": "WEST CENTRAL ELEM SCHOOL/ (BRGY POBLCION 4)",
+        "latitude": 18.335783007063828, 
+        "longitude": 120.61345717850241,
         "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
         "comeleccontactno": 9663428412
     },
@@ -2734,6 +2736,8 @@
         "stationunit": "Pasuquin",
         "location": "DAVILA ELEMENTARY SCHOOL/ BRGY 5 DAVILA",
         "personnel": "For finalization",
+        "latitude": 18.468437742475338,
+        "longitude": 120.57827438505373,
         "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
         "comeleccontactno": 9663428412
     },
@@ -2818,6 +2822,8 @@
         "stationunit": "Pasuquin",
         "location": "NAGLICUAN ELEMENTARY SCHOOL/ BRGY 13 NAGLICUAN",
         "personnel": "For finalization",
+        "latitude": 18.307727192301122,
+        "longitude": 120.5945181262685,
         "comelecofficer": "Ms. Hilaria Fermin Agustin, EO III",
         "comeleccontactno": 9663428412
     },
