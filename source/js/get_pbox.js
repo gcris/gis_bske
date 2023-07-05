@@ -6,7 +6,7 @@ export default function getPbox(map) {
         // Create a DOM element for each marker.
         const elem = document.createElement('div');
         elem.className = 'marker pbox';
-        const stationunit = marker.stationunit.toLocaleLowerCase().replace(" ", "_");
+        const stationunit = marker.stationunit.toLocaleLowerCase().replace(/ /g, "_");
         elem.style.backgroundImage = `url(source/images/${stationunit}.png)`;
 
         const html = `<div class="container">` + 

@@ -3271,5 +3271,424 @@
         "longitude": 120.758990943431,
         "comelecofficer": "Mr Aureu F Antolin Jr",
         "comeleccontactno": 9167569405
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Sarrat North Central School",
+        "personnel": "PSSg Maricel Magayano\nPCpl Alyssa Vergara",
+        "contactno": "9318401816\n9365960095",
+        "latitude": 18.161000,
+        "longitude": 120.648200,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Sarrat National High School",
+        "personnel": "PCpl Harold Aguilar",
+        "contactno": 9614484486,
+        "latitude": 18.1605,
+        "longitude": 120.6487,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Sagpatan Elementary School",
+        "personnel": "PCpl Joenel Ulep",
+        "contactno": 9953064806,
+        "latitude": 18.1543344625573,
+        "longitude": 120.665275096692,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Sarrat Central School",
+        "personnel": "PCpl Wingie Caballero",
+        "contactno": 9152153264,
+        "latitude": 18.1546,
+        "longitude": 120.64487,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Patad Elementary School",
+        "personnel": "Pat Ryan Lee Mar Gumiran",
+        "contactno": 9267232385,
+        "latitude": 18.15771,
+        "longitude": 120.63349,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "San Antonio Elementary School",
+        "personnel": "PSSg Armando Dela Cruz",
+        "contactno": 9275218088,
+        "latitude": 18.136111,
+        "longitude": 120.631944,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Sta Rosa Elementary School",
+        "personnel": "PCpl Jayson Pascual",
+        "contactno": 9483756530,
+        "latitude": 18.12393,
+        "longitude": 120.62855,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "San Bernabe Elementary School",
+        "personnel": "PSSg Bernardo Palpal",
+        "contactno": 9190093272,
+        "latitude": 18.1019524,
+        "longitude": 120.6199878,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Pandan Integrated School",
+        "personnel": "PSMS Eric Rasalan",
+        "contactno": 927821110,
+        "latitude": 18.09,
+        "longitude": 120.63,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Ruiz Elementary School",
+        "personnel": "PCpl Junel Lombo",
+        "contactno": 9773910270,
+        "latitude": 18.11536,
+        "longitude": 120.6397,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Golgol Elementary School",
+        "personnel": "PCMS Voltaire H Balinbin",
+        "contactno": 9214756282,
+        "latitude": 18.13779,
+        "longitude": 120.66138,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Parang Elementary School",
+        "personnel": "PSSg Nathaniel  Roldan",
+        "contactno": 9984284787,
+        "latitude": 18.15094,
+        "longitude": 120.6799,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Cabuluan Elementary School",
+        "personnel": "PCpl Nathaniel Balucas",
+        "contactno": 9177911292,
+        "latitude": 18.1192,
+        "longitude": 120.652,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Sarrat",
+        "location": "Binaratan Elementary School",
+        "personnel": "PCpl Joie Vida Pinacate",
+        "contactno": 9055395861,
+        "latitude": 18.1751679534,
+        "longitude": 120.654202832,
+        "comelecofficer": "Mr, Robert A Fernandez",
+        "comeleccontactno": 9171364869
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Vintar Central Elementary School",
+        "personnel": "PSSg Ana Khariza Baclagan",
+        "contactno": 9927523363,
+        "latitude": 18.229526,
+        "longitude": 120.649386,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Florentino Camaquin Integrated School",
+        "personnel": "PEMS Susana Francisco",
+        "contactno": 920885412,
+        "latitude": 18.22705,
+        "longitude": 120.645566,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Abkir Elementary School",
+        "personnel": "Pat Danica Agbayani",
+        "contactno": 965339645,
+        "latitude": 18.247468,
+        "longitude": 120.651885,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Alsem Elementary School",
+        "latitude": 18.298218,
+        "longitude": 120.709228,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Bago Elementary School",
+        "personnel": "PSSg Neslhie Joy Briones",
+        "contactno": 929328082,
+        "latitude": 18.34219,
+        "longitude": 120.731227,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Pallas Integrated School",
+        "latitude": 18.214154,
+        "longitude": 120.699954,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Cabangaran Elementary School",
+        "personnel": "PCpl Jezrel Gay-ya",
+        "contactno": 9562604167,
+        "latitude": 18.36031,
+        "longitude": 120.756262,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Cabayo Elementary School",
+        "personnel": "PCpl Michael Tolentino",
+        "contactno": 9272829008,
+        "latitude": 18.360319,
+        "longitude": 120.756194,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Cabisuculan Elementary School",
+        "latitude": 18.256987,
+        "longitude": 120.657606,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Gubang Elementary School",
+        "personnel": "PSSg Arnel Cleopas",
+        "contactno": 9208211009,
+        "latitude": 18.32453,
+        "longitude": 120.792626,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Masadsauel Primary School",
+        "personnel": "PSSg Mark Andrew Marcelino",
+        "contactno": 9669055291,
+        "latitude": 18.299699,
+        "longitude": 120.758412,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Columbia Elementary School",
+        "latitude": 18.256996,
+        "longitude": 120.657597,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Dagupan Elementary School",
+        "latitude": 18.344551,
+        "longitude": 120.74205,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Salpad Integrated School",
+        "latitude": 18.242183,
+        "longitude": 120.662848,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Dipilat Elementary School",
+        "latitude": 18.302783,
+        "longitude": 120.718936,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Sagpat Elementary School",
+        "personnel": "PSSg Rohn Paul Cardona",
+        "contactno": 9272214359,
+        "latitude": 18.256445,
+        "longitude": 120.725345,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Esperanza Elementary School",
+        "personnel": "Pat Karl Windel Ramirez",
+        "contactno": 9451887181,
+        "latitude": 18.33579,
+        "longitude": 120.72892,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Ester Elementary School",
+        "personnel": "Pat Patrick Balanay",
+        "contactno": 9158550031,
+        "latitude": 18.225148,
+        "longitude": 120.706211,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Isic-isic Elementary School",
+        "personnel": "PCpl Jay Mark Arcano",
+        "contactno": 9276969691,
+        "latitude": 18.398963,
+        "longitude": 120.763075,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Tungel Elementary School",
+        "personnel": "PCMS Onofre Loreto Pacis",
+        "contactno": 9189677520,
+        "latitude": 18.408247,
+        "longitude": 120.785616,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Dasar Elementary School",
+        "personnel": "PSSg Ralph Vincent Aquino",
+        "contactno": 9397205672,
+        "latitude": 18.393698,
+        "longitude": 120.788609,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Lubnac Elementary School",
+        "latitude": 18.221315,
+        "longitude": 120.670252,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Namoroc Elementary School",
+        "personnel": "Pat Kevin Villanueva",
+        "contactno": 9567228741,
+        "latitude": 18.221631,
+        "longitude": 120.637017,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Manarang Elementray School",
+        "personnel": "Pat Nat Agacia",
+        "contactno": 9618368065,
+        "latitude": 18.292115,
+        "longitude": 120.685384,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Margaay Elementary School",
+        "latitude": 18.214845,
+        "longitude": 120.653315,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Malampa Elementry School",
+        "latitude": 18.269228,
+        "longitude": 120.666641,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Parparoroc Elementary School",
+        "latitude": 18.229729,
+        "longitude": 120.676212,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Parut Elementry School",
+        "latitude": 18.229116,
+        "longitude": 120.630205,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Salsalamagui Elementary School",
+        "personnel": "PCMS Jun Agtarap",
+        "contactno": 9666719808,
+        "latitude": 18.243586,
+        "longitude": 120.675689,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Magabobo Elementray School",
+        "latitude": 18.263089,
+        "longitude": 120.681025,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Lipay Elementary School",
+        "latitude": 18.355067,
+        "longitude": 120.734183,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Tamdagan Integrated School",
+        "latitude": 18.322425,
+        "longitude": 120.731998,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Visaya Elementary School",
+        "latitude": 18.254288,
+        "longitude": 120.689787,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Saricao Elementary School",
+        "latitude": 18.381715,
+        "longitude": 120.735774,
+        "comelecofficer": "N/A"
+    },
+    {
+        "stationunit": "Vintar",
+        "location": "Dimamaga Elementary School",
+        "latitude": 18.322392,
+        "longitude": 120.73191,
+        "comelecofficer": "N/A"
     }
 ]

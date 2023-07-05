@@ -1,0 +1,320 @@
+[
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy",
+        "latitude": 18.18642541,
+        "longitude": 120.5627803
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy. 40 Balatong, Laoag City ",
+        "latitude": 18.15764281,
+        "longitude": 120.5503875
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy. 40 Balatong, Laoag City \n (Along Laoa-Suba Rd)",
+        "latitude": 18.17273496,
+        "longitude": 120.5576485
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy. 29 Santo Tomas, Laoag City",
+        "latitude": 18.19161564,
+        "longitude": 120.6089556
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy. 55-A Barit Pandan, Laoag City\n (Along Laoag-Bacarra Rd)",
+        "latitude": 18.21969332,
+        "longitude": 120.6054218
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy. 44 Zamboanga, Laoag City \n (Along Laoag-Airport Rd)",
+        "latitude": 18.18863648,
+        "longitude": 120.5507826
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Quiing Sur",
+        "latitude": 18.060847,
+        "longitude": 120.555253
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Tabug",
+        "latitude": 18.0460318,
+        "longitude": 120.5940777
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. San Mateo",
+        "latitude": 18.0422,
+        "longitude": 120.6023
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Valdez",
+        "latitude": 18.0521898803,
+        "longitude": 120.566538807
+    },
+    {
+        "stationunit": "Adams",
+        "address": "Adams-Pancian Road",
+        "latitude": 18.46163,
+        "longitude": 120.901399
+    },
+    {
+        "stationunit": "Bacarra",
+        "address": "Brgy 30, Cadaratan, Bacarra, Ilcoos Norte",
+        "latitude": 18.294044,
+        "longitude": 120.598915
+    },
+    {
+        "stationunit": "Bacarra",
+        "address": "Brgy 19-A, Tambidao, Bacarra, Ilcoos Norte",
+        "latitude": 18.248591,
+        "longitude": 120.622417
+    },
+    {
+        "stationunit": "Bacarra",
+        "address": "Brgy 40, Buyon, Bacarra, Ilocos Norte",
+        "latitude": 18.233647,
+        "longitude": 120.610715
+    },
+    {
+        "stationunit": "Badoc",
+        "address": "Brgy Sta Cruz Sur Badoc Ilocos Norte",
+        "latitude": 17.897437,
+        "longitude": 120.468727
+    },
+    {
+        "stationunit": "Badoc",
+        "address": "Brgy Sta Cruz Norte Badoc Ilocos Norte",
+        "latitude": 17.915732,
+        "longitude": 120.474822
+    },
+    {
+        "stationunit": "Bangui",
+        "address": "Brgy. Abaca, BAngui, IN",
+        "latitude": 18.533847,
+        "longitude": 120.761762
+    },
+    {
+        "stationunit": "Banna",
+        "address": "Brgy#3 Lorenzo, Banna, Ilocos Norte",
+        "latitude": 17.976876,
+        "longitude": 120.658607
+    },
+    {
+        "stationunit": "Burgos",
+        "address": "Brgy. Saoit, Burgos, Ilocos Norte",
+        "latitude": 18.521589,
+        "longitude": 120.624065
+    },
+    {
+        "stationunit": "Carasi",
+        "address": "Sitio Tara-tara Brgy.Virbira Carasi I.Norte",
+        "latitude": 18.14551,
+        "longitude": 120.80521
+    },
+    {
+        "stationunit": "Carasi",
+        "address": "Sitio Naguindayonan Brgy.Barbaquezo I.Norte",
+        "latitude": 18.13977,
+        "longitude": 120.81864
+    },
+    {
+        "stationunit": "Currimao",
+        "address": "Brgy. Maglaoi Centro, Currimao, Ilocos Norte",
+        "latitude": 17.977306,
+        "longitude": 120.4855
+    },
+    {
+        "stationunit": "Dingras",
+        "address": "Brgy Madamba, Dingras, Ilocos Norte",
+        "latitude": 18.10213,
+        "longitude": 120.6984
+    },
+    {
+        "stationunit": "Dingras",
+        "address": "Brgy Albano, Dingras, Ilocos Norte",
+        "latitude": 18.101334,
+        "longitude": 120.699651
+    },
+    {
+        "stationunit": "Dingras",
+        "address": "Brgy Guerrero, Dingras, Ilocos Norte",
+        "latitude": 18.094849,
+        "longitude": 120.706266
+    },
+    {
+        "stationunit": "Dumalneg",
+        "address": "Brgy. Cabaritan, Dumalneg, Ilocos Norte",
+        "latitude": 18.5245,
+        "longitude": 120.8049
+    },
+    {
+        "stationunit": "Marcos",
+        "address": "Brgy Daquioag Marcos Ilocos Norte",
+        "latitude": 18.036021,
+        "longitude": 120.681692
+    },
+    {
+        "stationunit": "Nueva Era",
+        "address": "Brgy. Poblacion, Nueva Era, Ilocs Norte",
+        "latitude": 17.916313,
+        "longitude": 120.662422
+    },
+    {
+        "stationunit": "Pagudpud",
+        "address": "Brgy. Tarrag, Pagudpud, Ilocos Norte",
+        "latitude": 18.552196,
+        "longitude": 120.795494
+    },
+    {
+        "stationunit": "Paoay",
+        "address": "Brgy 15 Suba, Paoay, Ilocos Norte",
+        "latitude": 18.1287242510225,
+        "longitude": 120.53238568815
+    },
+    {
+        "stationunit": "Paoay",
+        "address": "Brgy 9 San Pedro, Paoay, Ilocos Norte",
+        "latitude": 18.0354906566596,
+        "longitude": 120.50721455108
+    },
+    {
+        "stationunit": "Pasuquin",
+        "address": "Brgy. Poblacion 4 Pasuquin Ilocos Norte",
+        "latitude": 18.3380821,
+        "longitude": 120.6131192
+    },
+    {
+        "stationunit": "Piddig",
+        "address": "Brgy Ab-but, Piddig, Ilocos Norte",
+        "latitude": 18.168623,
+        "longitude": 120.704206
+    },
+    {
+        "stationunit": "Piddig",
+        "address": "Brgy Tonoton, Piddig, Ilocos Norte",
+        "latitude": 18.152571,
+        "longitude": 120.695721
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy. Darat, Pinili, Ilocos Norte",
+        "latitude": 17.95115,
+        "longitude": 120.49118
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy. Valbuena, Pinili, Ilocos Norte",
+        "latitude": 17.951173,
+        "longitude": 120.530394
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy. Pagdilao, Pinili, Ilocos Norte",
+        "latitude": 17.954819,
+        "longitude": 120.519454
+    },
+    {
+        "stationunit": "San Nicolas",
+        "address": "Brgy6 San Juan Bautista, SNIN",
+        "latitude": 18.169335,
+        "longitude": 120.606493
+    },
+    {
+        "stationunit": "San Nicolas",
+        "address": "Brgy16 San Marcos, SNIN",
+        "latitude": 18.167905,
+        "longitude": 120.57587
+    },
+    {
+        "stationunit": "San Nicolas",
+        "address": "Brgy24 Sta Monica, SNIN",
+        "latitude": 18.169111,
+        "longitude": 120.607139
+    },
+    {
+        "stationunit": "Sarrat",
+        "address": "Brgy 1 San Joaquin, Sarrat, Ilocos Norte",
+        "latitude": 18.171246168464,
+        "longitude": 120.633684896663
+    },
+    {
+        "stationunit": "Solsona",
+        "address": "Brgy. Laureta, Solsona, Iloocs Norte",
+        "latitude": 18.088453,
+        "longitude": 120.76832
+    },
+    {
+        "stationunit": "Solsona",
+        "address": "Brgy. Santiago, Solsona, Ilocos Norte",
+        "latitude": 18.098083,
+        "longitude": 120.737576
+    },
+    {
+        "stationunit": "Solsona",
+        "address": "Brgy. Juan, Solsona, Ilocos Norte",
+        "latitude": 18.093861,
+        "longitude": 120.772244
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 4 Santa Maria, Vintar, Ilocos Norte",
+        "latitude": 18.228009,
+        "longitude": 120.644895
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 9 Lubnac, Vintar Ilocos Norte",
+        "latitude": 18.222968,
+        "longitude": 120.665591
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 5 San Ramon, Vintar, Ilocos Norte",
+        "latitude": 18.233287,
+        "longitude": 120.638071
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 18 Abkir, Vintar Ilocos Norte",
+        "latitude": 18.248348,
+        "longitude": 120.654078
+    },
+    {
+        "stationunit": "1st PMFC",
+        "address": "Davila Pasuquin Protect Box, Brgy Davila, Pasuquin",
+        "latitude": 18.457558,
+        "longitude": 120.580748
+    },
+    {
+        "stationunit": "1st PMFC",
+        "address": "Brgy Ab-Abut, Piddig, Ilocos Norte",
+        "latitude": 18.168581,
+        "longitude": 120.704083
+    },
+    {
+        "stationunit": "2nd PMFC",
+        "address": "Brgy. Sta. Cruz Sur, Badoc Ilocos Norte",
+        "latitude": 17.900666,
+        "longitude": 120.461686
+    },
+    {
+        "stationunit": "2nd PMFC",
+        "address": "Brgy. Turod, Badoc, Ilocos Norte",
+        "latitude": 17.904332,
+        "longitude": 120.502000
+    },
+    {
+        "stationunit": "2nd PMFC",
+        "address": "Brgy. Lydia, Marcos, Ilocos Norte",
+        "latitude": 18.48975,
+        "longitude": 120.683341
+    }
+]

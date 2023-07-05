@@ -1,0 +1,158 @@
+[
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 48-A Cabungaan Laoag City",
+        "latitude": 18.18875,
+        "longitude": 120.553078
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 37 Calayab Laoag City",
+        "latitude": 18.152377,
+        "longitude": 120.528937
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 40 Balatong Laoag City",
+        "latitude": 18.1650533,
+        "longitude": 120.5524359
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 51-A Nangalisan Laoag City",
+        "latitude": 18.186306,
+        "longitude": 120.588834
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 52-A San Mateo Laoag City",
+        "latitude": 18.172151,
+        "longitude": 120.631454
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 25 Laoag City",
+        "latitude": 18.195988,
+        "longitude": 120.605228
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 54-A Lagui-Sail Laoag City",
+        "latitude": 18.200972,
+        "longitude": 120.615231
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 13 Laoag City",
+        "latitude": 18.208406,
+        "longitude": 120.601743
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy 3 Laoag City",
+        "latitude": 18.203904,
+        "longitude": 120.591361
+    },
+    {
+        "stationunit": "Laoag City",
+        "address": "Brgy Brgy 59-B Dibua North Laoag City",
+        "latitude": 18.240348,
+        "longitude": 120.572722
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. San Mateo",
+        "latitude": 18.0422,
+        "longitude": 120.6023
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Quiling Sur",
+        "latitude": 18.060847,
+        "longitude": 120.561
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Baay",
+        "latitude": 18.1099,
+        "longitude": 120.5653
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Caunayan",
+        "latitude": 18.0572,
+        "longitude": 120.561
+    },
+    {
+        "stationunit": "Bacarra",
+        "address": "Brgy 19-A, Tambidao, Bacarra, Ilocos Norte",
+        "latitude": 18.248682,
+        "longitude": 120.622486
+    },
+    {
+        "stationunit": "Bacarra",
+        "address": "Brgy 30, Cadaratan, Bacarra, Ilocos Norte",
+        "latitude": 18.294106,
+        "longitude": 120.598866
+    },
+    {
+        "stationunit": "Badoc",
+        "address": "Brgy Gabut Norte Badoc Ilocos Norte",
+        "latitude": 17.964755,
+        "longitude": 120.478531
+    },
+    {
+        "stationunit": "Banna",
+        "address": "Brgy#4 Marcos, Banna, Ilocos Norte",
+        "latitude": 17.980578,
+        "longitude": 120.654512
+    },
+    {
+        "stationunit": "Currimao",
+        "address": "Brgy San Simeon, Currimao, Ilocos Norte",
+        "latitude": 17.995632,
+        "longitude": 120.503393
+    },
+    {
+        "stationunit": "Dingras",
+        "address": "Brgy Madamba, Dingras, Ilocos Norte",
+        "latitude": 18.10307,
+        "longitude": 120.69716
+    },
+    {
+        "stationunit": "Marcos",
+        "address": "Brgy Lydia Marcos Ilocos Norte",
+        "latitude": 18.042673,
+        "longitude": 120.677302
+    },
+    {
+        "stationunit": "Paoay",
+        "address": "Brgy 18 Veronica. Paoay, Ilocos Norte",
+        "latitude": 18.0608855542314,
+        "longitude": 120.522134299398
+    },
+    {
+        "stationunit": "San Nicolas",
+        "address": "Brgy1 San Francisco, SNIN",
+        "latitude": 18.180214,
+        "longitude": 120.591197
+    },
+    {
+        "stationunit": "Sarrat",
+        "address": "Brgy 10 San Miguel, Sarrat, Ilocos Norte",
+        "latitude": 18.1270598676586,
+        "longitude": 120.627414977828
+    },
+    {
+        "stationunit": "Solsona",
+        "address": "Brgy. Juan, Solsona, Ilocos Norte",
+        "latitude": 18.094721,
+        "longitude": 120.770483
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 4 Santa Maria, Vintar, Ilocos Norte",
+        "latitude": 18.228009,
+        "longitude": 120.644895
+    }
+]

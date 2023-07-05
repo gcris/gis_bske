@@ -5,8 +5,9 @@ export default function getPrecincts(map) {
     for (const marker of precints) {
         // Create a DOM element for each marker.
         const elem = document.createElement('div');
-        elem.className = 'marker precincts';
-        const stationunit = marker.stationunit.toLocaleLowerCase().replace(" ", "_");
+        const stationunit = marker.stationunit.toLocaleLowerCase().replace(/ /g, "_");
+        
+        elem.className = `marker precincts marker-${stationunit}`;
         elem.style.backgroundImage = `url(source/images/ballot.png)`;
 
         const html = `<div class="container marker_content">` + 

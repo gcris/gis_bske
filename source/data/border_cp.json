@@ -1,0 +1,110 @@
+[
+    {
+        "stationunit": "101st RMFB 1",
+        "address": "Brgy. Pasaleng, Pagudpud, Ilocos Norte",
+        "latitude": 18.54899,
+        "longitude": 120.93869
+    },
+    {
+        "stationunit": "103rd RMFB 1",
+        "address": "Brgy. Maananteng, Solsona, Ilocos Norte",
+        "latitude": 18.093216,
+        "longitude": 120.816565
+    },
+    {
+        "stationunit": "2nd PMFC",
+        "address": "Brgy. Sta. Cruz Sur, Badoc Ilocos Norte",
+        "latitude": 17.900666,
+        "longitude": 120.461686
+    },
+    {
+        "stationunit": "Nueva Era",
+        "address": "Brgy. poblacion, Nueva Era, I.N",
+        "latitude": 17.909608,
+        "longitude": 120.669937
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. San Mateo",
+        "latitude": 18.0422,
+        "longitude": 120.6023
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Quiling Sur",
+        "latitude": 18.060847,
+        "longitude": 120.561
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Baay",
+        "latitude": 18.1099,
+        "longitude": 120.5653
+    },
+    {
+        "stationunit": "Batac City",
+        "address": "Brgy. Caunayan",
+        "latitude": 18.0572,
+        "longitude": 120.561
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy Buanga",
+        "latitude": 17.961993,
+        "longitude": 120.567
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy Liliputen",
+        "latitude": 17.932851,
+        "longitude": 120.617339
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy Dalayap",
+        "latitude": 17.97311,
+        "longitude": 120.540337
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy Gulpeng",
+        "latitude": 17.976273,
+        "longitude": 120.479795
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy Pugaoan",
+        "latitude": 17.913696,
+        "longitude": 120.540778
+    },
+    {
+        "stationunit": "Pinili",
+        "address": "Brgy Puzol",
+        "latitude": 17.934882,
+        "longitude": 120.508569
+    },
+    {
+        "stationunit": "Pagudpud",
+        "address": "Brgy. Pasaleng",
+        "latitude": 18.549162,
+        "longitude": 120.939154
+    },
+    {
+        "stationunit": "Pagudpud",
+        "address": "Brgy. tarrag",
+        "latitude": 18.535484,
+        "longitude": 120.796599
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 7 Alejo Malasig, Vintar Ilocos Norte",
+        "latitude": 18.216774,
+        "longitude": 120.634115
+    },
+    {
+        "stationunit": "Vintar",
+        "address": "Brgy. 5 San Ramon, Vintar, Ilocos Norte",
+        "latitude": 18.233287,
+        "longitude": 120.638071
+    }
+]

@@ -31,14 +31,64 @@ p.marker_container_header {
 }
 
 .mapboxgl-popup {
-    max-width: 200px;
-}
-  
-.mapboxgl-popup-content {
-    text-align: center;
-    font-family: 'Open Sans', sans-serif;
+    max-width: 300px !important;
 }
 
 .map_legend {
     padding: 12px;
 }
+
+.dropDownStation {
+    padding-left: 40px;
+}
+
+.floating-container {
+  position: fixed;
+  width: 60px;
+  height: 150px;
+  top: -30px;
+  left: -20px;
+  margin: 35px 15px;
+}
+
+.floating-container .floating-button {
+  line-height: 65px;
+  text-align: center;
+  font-size: 23px;
+  z-index: 100;
+  margin-top: 5px;
+  width: 70px;
+  padding-right: 15px;
+}
+
+/* Search box button */
+.mapboxgl-ctrl-geocoder {
+    width: 400px;
+    right: 37px;
+}
+
+@media all and (max-width: 639px){
+    .floating-container {
+        top: 35%;
+    }
+    
+    .mapboxgl-ctrl-geocoder {
+        right: 51px;
+    }
+}
+
+/* end */
+
+/* Current Location button */
+.mapboxgl-ctrl-group {
+    right: 0;
+    position: fixed;
+    padding: .3em;
+}
+
+@media screen and (max-width: 639px) {
+    .mapboxgl-ctrl-group {
+        padding: 0.86em;
+    }
+}
+/* end */
