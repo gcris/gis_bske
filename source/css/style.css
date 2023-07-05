@@ -67,13 +67,16 @@ p.marker_container_header {
     right: 37px;
 }
 
-@media all and (max-width: 639px){
+@media all and (max-width: 550px){
     .floating-container {
         top: 35%;
     }
-    
+}
+
+@media all and (max-width: 639px){
     .mapboxgl-ctrl-geocoder {
         right: 51px;
+        max-width: 10%;
     }
 }
 
